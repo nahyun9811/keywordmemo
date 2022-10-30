@@ -5,3 +5,5 @@ Canvas
 Canvas의 자식 요소는 크기가 조정되지 않고 지정된 좌표에 배치된다.
 Canvas 크기가 달라져도 안의 요소의 크기는 변하지 않는다.
 굉장히 자유도가 높은 컨트롤이다.
+![Canvas](https://user-images.githubusercontent.com/116422740/198871088-2dcde0ce-59ed-4d63-a719-79befdea4025.JPG)
+![Canvas2](https://user-images.githubusercontent.com/116422740/198871091-9cb71d6f-e011-4926-9bdd-c951715f7cfd.JPG)
